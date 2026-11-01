@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="icon.svg">icon.svg</file>
+        <file>icons/alert.svg</file>
+        <file>icons/audio.svg</file>
+        <file>icons/file.svg</file>
+        <file>icons/film.svg</file>
+        <file>icons/folder.svg</file>
+        <file>icons/fullscreen-exit.svg</file>
+        <file>icons/fullscreen.svg</file>
+        <file>icons/image.svg</file>
+        <file>icons/link.svg</file>
+        <file>icons/music.svg</file>
+        <file>icons/mute.svg</file>
+        <file>icons/next.svg</file>
+        <file>icons/pause.svg</file>
+        <file>icons/play.svg</file>
+        <file>icons/prev.svg</file>
+        <file>icons/settings.svg</file>
+        <file>icons/subtitles.svg</file>
+        <file>icons/volume-low.svg</file>
+        <file>icons/volume.svg</file>
+        <file>icons/search.svg</file>
+        <file>icons/download.svg</file>
+        <file>icons/close.svg</file>
+        <file>icons/youtube.svg</file>
+        <file>icons/back.svg</file>
+        <file>icons/replay.svg</file>
+        <file>icons/repeat.svg</file>
+        <file>icons/plus.svg</file>
+        <file>icons/list.svg</file>
+        <file>icons/shuffle.svg</file>
+    </qresource>
+</RCC>
